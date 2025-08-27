@@ -1,0 +1,21 @@
+# Ignore generated account database and logs
+accounts.dat
+transactions.log
+accounts.csv
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled object files
+*.o
+*.out
+*.exe
+
+# Ignore backup files
+*~
+*.swp
+
+# Ignore build directories (if any)
+build/
+dist/
